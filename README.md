@@ -1,1 +1,1 @@
-# CLOCK---JS-PROJECT
+# Clock is JS app. The time is money! 
